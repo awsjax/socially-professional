@@ -14,11 +14,11 @@ I've added the following must services as a great place to start
 # Services
 1. Email
 2. Twitter
-3. GitHub (for publc/private with light actions)
+3. GitHub (for publc/private with light actions) (SSH Public Key for commits)
 4. A Blog
 5. Reddit
 6. DockerHub
-7. Private Repo with rich Pipelines such as AWS CodeCommit, Azure DevOps, or private Jenkins server
+7. Private Repo with rich Pipelines such as AWS CodeCommit, Azure DevOps, or private Jenkins server (SSH Public Key for commits)
 8. Cloud Service account with a major cloud provider
 9. YouTube Channel (optional but great for screencasts, courses, etc)
 10. Twitch.TV channel (optional, but great for screencasts, live demos, courses, etc)
