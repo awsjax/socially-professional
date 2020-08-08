@@ -22,3 +22,4 @@ I've added the following must services as a great place to start
 8. Cloud Service account with a major cloud provider
 9. YouTube Channel (optional but great for screencasts, courses, etc)
 10. Twitch.TV channel (optional, but great for screencasts, live demos, courses, etc)
+11. RSS Newsreader for Product Blog updates and medium articles (such as, https://aws.amazon.com/blogs/).
