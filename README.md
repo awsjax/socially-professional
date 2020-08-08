@@ -6,6 +6,7 @@ You have to begin with an Email account since that's what you need to have to si
 a major email provider in case you want to use federated services.
 
 A social media platform should allow you to get a good pulse on the tech community that you're a part of as well as add to the community and become a part of it.  
+
 It should have avenues to get deep, and avenues that allow you to get a heartbeat and catch up quickly with what's new as well as share contributions.
 
 I've added the following must services as a great place to start
